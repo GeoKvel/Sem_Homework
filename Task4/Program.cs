@@ -21,15 +21,3 @@ if (c > max)
     max = c;
 
 System.Console.WriteLine(max);
-
-
-
-
-// {
-//     max = b;
-//     else if (c > max)
-//         max = c;
-//     if (c>max)
-//         max = c;    
-// }
-// System.Console.WriteLine(max);
